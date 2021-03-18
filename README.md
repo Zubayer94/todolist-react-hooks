@@ -1,6 +1,6 @@
 # To-Do app with React & jsonplaceholder Api
 
-Created a to-do app to sharpen my react skills. I also used [jsonplaceholder's](https://jsonplaceholder.typicode.com) endpoint to crud todo. I used react functional components, hooks. For mananging state I used context api.
+Created a to-do app to sharpen my react skills. I also used [jsonplaceholder's](https://jsonplaceholder.typicode.com) endpoint to crud todo. I used react functional components, hooks. For managing state I used context api.
 
 ## Available Scripts
 
