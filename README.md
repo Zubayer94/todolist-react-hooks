@@ -1,6 +1,8 @@
+![sample-image](https://raw.githubusercontent.com/Zubayer94/todolist-react-hooks/main/public/todoapp-sample.PNG)
+
 # To-Do app with React & jsonplaceholder Api
 
-Created a to-do app to sharpen my react skills. I also used [jsonplaceholder's](https://jsonplaceholder.typicode.com) endpoint to crud todo. I used react functional components, hooks. For managing state I used context api. The UI is user friendly to add todo and mark complete after completing the todo.
+Created a to-do app to sharpen my react hooks skill. I also used [jsonplaceholder's](https://jsonplaceholder.typicode.com) endpoint to fetch data and crud todo. I used react functional components, hooks. For managing state I used context api. The UI is user friendly to add todo and mark complete after completing the todo.
 
 ## Available Scripts
 
